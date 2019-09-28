@@ -38,14 +38,19 @@ Now, everytime you want to play, just have to type
 ```
 
 ### Dodge
-<img src="./Dodge.png" width="350">
+<p align="center">
+<img src="./dodge.png" width="350">
+</p>
 
 ### PC mode
+<p align="center">
 <img src="./pcmode.png" width="350">
+</p>
 
 ### Dual Players Mode
+<p align="center">
 <img src="./duelplayermode.png" width="350">
-
+</p>
 
 
 
