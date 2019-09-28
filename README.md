@@ -49,7 +49,7 @@ Now, everytime you want to play, just have to type
 
 ### Dual Players Mode
 <p align="center">
-<img src="./duelplayermode.png" width="350">
+<img src="./duelplayermode.png" width="700">
 </p>
 
 
